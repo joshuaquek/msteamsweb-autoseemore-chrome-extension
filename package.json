@@ -1,5 +1,5 @@
 {
-  "name": "see-all-ms-teams",
+  "name": "autoseemore-msteamsweb",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,5 +14,5 @@
     "eslint-plugin-standard": "^4.0.1"
   },
   "author": "Joshua Quek",
-  "license": "ISC"
+  "license": "MIT"
 }

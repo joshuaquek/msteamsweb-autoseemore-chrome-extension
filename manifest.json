@@ -1,5 +1,5 @@
  {
-      "name": "See More Feature for Microsoft Teams",
+      "name": "Auto See More for Micorsoft Teams Web",
       "version": "1.0",
       "manifest_version": 2,
       "content_scripts": [

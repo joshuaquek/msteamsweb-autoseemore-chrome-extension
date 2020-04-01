@@ -21,8 +21,8 @@ onReady(function () {
     const element = nodeArray[index]
     fireClick(element)
   }
-  console.log(`>>>> Expanding ${nodeArray.length} messages via virtual "See More" clicks in MS Teams. 📖📖📖`)
-  if(nodeArray.length === 0) console.log(`>>>> All "See More" messages have been expanded in MS Teams, hooray! 🎉🎉🎉`)
+  // console.log(`>>>> Expanding ${nodeArray.length} messages via virtual "See More" clicks in MS Teams. 📖📖📖`)
+  // if (nodeArray.length === 0) console.log('>>>> All "See More" messages have been expanded in MS Teams, hooray! 🎉🎉🎉')
 })
 
 function fireClick (node) {
