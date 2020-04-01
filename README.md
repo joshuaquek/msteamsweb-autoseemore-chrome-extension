@@ -14,6 +14,9 @@ Since no native fix has been implemented within Teams Web to resolve this, this 
 ## ⚙️Installation
 Visit the Chrome Extension Page here: <b>URL to be added soon!</b>
 
+## 🐞Known Bugs
+* Native edit message feature is affected, due to the live clicks that are firing at a fixed interval.
+
 ## 🤝 Contributing
 In lieu of a formal style guide, take care to maintain the existing coding style. Currently, we are using StandardJS for maintaining the coding style.
 
