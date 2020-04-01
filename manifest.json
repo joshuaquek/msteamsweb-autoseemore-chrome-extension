@@ -1,0 +1,11 @@
+ {
+      "name": "See More Feature for Microsoft Teams",
+      "version": "1.0",
+      "manifest_version": 2,
+      "content_scripts": [
+        {
+          "matches": [ "https://teams.microsoft.com/*"],
+          "js": ["index.js"]
+        }
+      ]
+    }
