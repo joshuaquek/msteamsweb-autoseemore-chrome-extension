@@ -12,7 +12,7 @@ It has been a requested feature on MSTeams UserVoice feedback forums since 2018:
 Since no native fix has been implemented within Teams Web to resolve this, this extension aims to resolve that.
 
 ## ⚙️Installation
-Visit the Chrome Extension Page here: <b>URL to be added soon!</b>
+Visit the Chrome Extension Page here: https://chrome.google.com/webstore/detail/auto-see-more-for-microso/hkhcgcfccnnemjbgcnjlbnbghaakpmla
 
 ## 🐞Known Bugs
 * Native edit message feature is affected, due to the live clicks that are firing at a fixed interval.
