@@ -16,11 +16,26 @@ function onReady (yourMethod) {
 }
 
 onReady(function () {
+  {
   const nodeArray = document.querySelectorAll('.ts-see-more-fold')
   for (let index = 0; index < nodeArray.length; index++) {
     const element = nodeArray[index]
     fireClick(element)
   }
+  }
+  
+  // do the same for the replies from
+  {
+  const nodeArray = document.querySelectorAll('.ts-collapsed-common')
+  for (let index = 0; index < nodeArray.length; index++) {
+    const element = nodeArray[index]
+    fireClick(element)
+  }
+  }
+  
+  //ts-collapsed-string app-small-font ts-collapsed-common
+  
+  
   // console.log(`>>>> Expanding ${nodeArray.length} messages via virtual "See More" clicks in MS Teams. 📖📖📖`)
   // if (nodeArray.length === 0) console.log('>>>> All "See More" messages have been expanded in MS Teams, hooray! 🎉🎉🎉')
 })
