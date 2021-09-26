@@ -1,5 +1,5 @@
 {
-  "name": "autoseemore-msteamsweb",
+  "name": "autoseemoreinclreplies-msteamsweb",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,6 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1"
   },
-  "author": "Joshua Quek",
+  "author": "Helge Rhodin, based on Joshua Quek",
   "license": "MIT"
 }
