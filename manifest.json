@@ -1,6 +1,7 @@
  {
-      "name": "Auto 'See More' for Microsoft Teams Web",
+      "name": "Auto open replies in Microsoft Teams Web",
       "version": "1.0",
+	  "description": "Auto opens 'See more' and 'replies from' when running Microsoft Teams Web.",
       "manifest_version": 2,
       "content_scripts": [
         {
